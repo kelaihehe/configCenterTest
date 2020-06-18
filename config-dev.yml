@@ -2,4 +2,4 @@ config:
   info: "master branch,config-dev.yml,version=4"
 spring:
   application:
-    name: cloud-consumer-service1
+    name: cloud-consumer-service2
