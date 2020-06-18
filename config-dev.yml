@@ -1,5 +1,5 @@
 config:
-  info: "master branch,config-dev.yml,version=6"
+  info: "master branch,config-dev.yml,version=7"
 spring:
   application:
     name: cloud-consumer-service2
